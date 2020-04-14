@@ -23,5 +23,4 @@ Bob Marley discography analysis with the Spotify API and spotipy
 ![Image description](https://github.com/sam-brady/spotify-bob-marley-discography/blob/master/images/Screen%20Shot%202020-04-13%20at%206.56.56%20PM.png)
 
 
-![Image description](https://github.com/sam-brady/spotify-bob-marley-discography/blob/master/images/Screen%20Shot%202020-04-13%20at%206.57.53%20PM.png)
 
